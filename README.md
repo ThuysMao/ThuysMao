@@ -18,7 +18,6 @@
 - 🎮 Hardcore FPS Player: **CS2 (Faceit)** & **Valorant (Immortal)**.
 - 🎵 I love integrating music, Discord rich presence, and interactive UI into my projects.
 - 📫 How to reach me: Drop a message on **Discord** or send an **Email**.
-- ⚡ Fun fact: Always built from the ground up with passion and curiosity. 🐈‍⬛
 
 ---
 
