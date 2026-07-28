@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThuysMao/me-site/main/assets/img/banner.png" alt="ThuysMao Portfolio Banner">
+  <img src="https://raw.githubusercontent.com/ThuysMao/me-site/main/assets/img/banner.png" alt="ThuysMao Portfolio Banner" width="100%">
 </div>
 
-<br />
+<div align="center">
+  <a href="https://thuysmao.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+unique+web+experiences...;Hardcore+FPS+Player+(CS2+%26+Valorant);Music+%26+Discord+Integration+Lover" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://thuysmao.com/">
@@ -19,46 +23,30 @@
 - 🎵 I love integrating music, Discord rich presence, and interactive UI into my projects.
 - 📫 How to reach me: Drop a message on **Discord** or send an **Email**.
 
----
+<br/>
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,java,python&theme=dark&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ThuysMao">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThuysMao&show_icons=true&theme=tokyonight&hide_border=true" alt="ThuysMao's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThuysMao&show_icons=true&theme=tokyonight&hide_border=true" alt="ThuysMao's GitHub stats" height="192" />
   </a>
-  <br/><br/>
   <a href="https://github.com/ThuysMao">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThuysMao&theme=tokyonight&hide_border=true" alt="ThuysMao's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThuysMao&theme=tokyonight&hide_border=true" alt="ThuysMao's GitHub streak" height="192" />
   </a>
 </div>
+
 <br/>
----
 
 ### 📫 Let's Connect!
 
@@ -78,6 +66,7 @@
 </div>
 
 <br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ThuysMao&color=FF66CC&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
